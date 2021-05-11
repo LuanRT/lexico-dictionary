@@ -1,4 +1,4 @@
-var lexico = require("./lib/lexico.js");
+var lexico = require("../../lexico.js");
 
 lexico.search("great").then((res) => {
   console.log(res);
