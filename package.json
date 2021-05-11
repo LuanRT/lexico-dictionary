@@ -4,7 +4,7 @@
   "description": "A module that scrapes the Lexico dictionary to get meaning of words, examples etc.",
   "main": "index.js",
   "scripts": {
-    "test": "examples/index.js"
+    "test": "./examples"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
