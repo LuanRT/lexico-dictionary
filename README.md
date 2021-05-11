@@ -1,6 +1,6 @@
 # Lexico Dictionary
 
-[![Build](https://github.com/LuanRT/lexico-dictionary/actions/workflows/node.js.yml/badge.svg)](https://github.com/LuanRT/lexico-dictionary/actions/workflows/node.js.yml)
+[![Build](https://github.com/LuanRT/lexico-dictionary/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/LuanRT/lexico-dictionary/actions/workflows/node.js.yml)
 
 A module that scrapes lexico.com to get the meanings of almost any word + audio and examples.
 
