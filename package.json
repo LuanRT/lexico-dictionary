@@ -1,0 +1,30 @@
+{
+  "name": "lexico-dictionary",
+  "version": "1.0.0",
+  "description": "A module that scrapes the Lexico dictionary to get meaning of words, examples etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "axios": "^0.21.1",
+    "user-agents" : "^1.0.647"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https//github.com/LuanRT/lexico-dictionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "lexico-dictionary",
+    "word-meaning",
+    "scraper"
+  ],
+  "author": "LuanRT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuanRT/lexico-dictionary/issues"
+  },
+  "homepage": "https://github.com/LuanRT/lexico-dictionary#readme"
+}
