@@ -1,4 +1,5 @@
 # Lexico Dictionary
+[![Node.js CI](https://github.com/LuanRT/lexico-dictionary/actions/workflows/node.js.yml/badge.svg)](https://github.com/LuanRT/lexico-dictionary/actions/workflows/node.js.yml)
 
 A module that scrapes lexico.com to get the meanings of almost any word + audio and examples.
 
