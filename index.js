@@ -1,1 +1,1 @@
-module.exports = require('./lib/lexico');
+module.exports = require("./lib/lexico");
