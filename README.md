@@ -24,7 +24,7 @@ lexico
 ```
 
 #### Output:
-
+ 
 ```js
 {
   phonetic: '/ɡrāt/',
