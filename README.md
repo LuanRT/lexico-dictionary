@@ -25,7 +25,7 @@ lexico
 
 #### Output:
 
-```js
+```json
 {
   phonetic: '/ɡrāt/',
   pos: 'adjective',
